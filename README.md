@@ -2,7 +2,7 @@
 - 👀 I’m interested in Desktop apps
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me y.hafiane2002@gmail.com
+- 📫 How to reach me hafianeyassine8@gmail.com
 
 <!---
 maokli24/maokli24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
