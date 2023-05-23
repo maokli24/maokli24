@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @maokli24
+- 👋 Hi, I’m Hafiane Yassine
 - 👀 I’m interested in web Apps;
-- 🌱 I’m currently learning PHP (Laravel)
+- 🌱 I’m currently learning PHP (Laravel) and flutter
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me hafianeyassine8@gmail.com
 
